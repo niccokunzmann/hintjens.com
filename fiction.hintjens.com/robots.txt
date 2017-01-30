@@ -1,0 +1,3 @@
+Sitemap: http://fiction.hintjens.com/sitemap.xml
+User-agent: voltron
+Disallow: /

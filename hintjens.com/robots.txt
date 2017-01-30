@@ -1,0 +1,3 @@
+Sitemap: http://hintjens.com/sitemap.xml
+User-agent: voltron
+Disallow: /
